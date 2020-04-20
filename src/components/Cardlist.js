@@ -2,7 +2,7 @@ import React from 'react';
 import Card from './Card'
 
 
-const Cardlist = ({ robots }) => {
+const Cardlist = ({ robots }) => {    
     return (
         <div>
             {
